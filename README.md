@@ -9,15 +9,15 @@ This is used to assess a student's level of digital literacy and gain a baseline
 ### Complete the assessment by determining if the student is able to complete the following tasks: 
 
 **General Hardware Operations - 19 pts total (0 - 14 pts Support Needed)**
-- [ ] Identify the keyboard - 5 pts
-- [ ] Identify the computers mouse/mouse pad - 5 pts
-- [ ] Identify the screen/monitor - 5 pts
-- [ ] Turn the computer on and login - 2 pts
-- [ ] Identify the computers USB ports - 2 pts
+- [ x] Identify the keyboard - 5 pts
+- [ x] Identify the computers mouse/mouse pad - 5 pts
+- [ x] Identify the screen/monitor - 5 pts
+- [ x] Turn the computer on and login - 2 pts
+- [ x] Identify the computers USB ports - 2 pts
 
 **Using Applications and Navigating the Computer - 46 pts total (0 - 24 pts Support Needed)**
-- [ ] Open a text editor and create a new file (the instructor can help the student find the text editor) - 10 pts
-- [ ] Have the student type his or her name and date of birth in the file created in the step above - 10 pts
+- [ x] Open a text editor and create a new file (the instructor can help the student find the text editor) - 10 pts
+- [ x] Have the student type his or her name and date of birth in the file created in the step above - 10 pts
 - [ ] Save the file created above - 5 pts
 - [ ] Close the file created above - 5 pts
 - [ ] Open the file above - 5 pts
